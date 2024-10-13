@@ -26,12 +26,12 @@ docker run -it douglas_scrapper
 
 1. Run the scraper:
 ```bash
-python3 main.py
+python main.py
 ```
 
 (optional) You can specify the number of pages to scrape:
 ```bash
-python3 main.py --pages 2
+python main.py --pages 2
 ```
 
 2. The results will be saved in the products.xlsx file.
