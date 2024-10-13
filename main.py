@@ -2,10 +2,7 @@ import pandas as pd
 from scraper.douglas_product_scraper import DouglasProductListScraper
 import os
 import xlsxwriter
-from utils.webdriver import WebDriver
 import argparse
-
-web_driver = WebDriver()
 
 def scrape_douglas_products(amount_of_pages):
     """Scrape Douglas product list and save to Excel file"""

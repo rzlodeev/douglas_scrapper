@@ -17,7 +17,7 @@ cd douglas_scrapper
 docker build -t douglas_scrapper .
 ```
 
-3. Run the docker container:
+3. Run the docker container (Make sure that you have Docker installed and running):
 ```bash
 docker run -it douglas_scrapper
 ```
