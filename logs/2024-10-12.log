@@ -1,0 +1,184 @@
+2024-10-12 20:51:06,913 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 20:51:06,914 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:23:20,298 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:23:20,298 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:25:02,068 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:25:02,068 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:25:47,330 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:25:47,330 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:25:50,550 - scraper.douglas_product_scraper - INFO - Parsed HTML content from page: https://www.douglas.lv/lv/katalogs/?&page=538, total length: 3
+2024-10-12 22:28:14,078 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:28:14,080 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:28:17,322 - scraper.douglas_product_scraper - INFO - Parsed HTML content from page: https://www.douglas.lv/lv/katalogs/?&page=538, total length: 3
+2024-10-12 22:31:10,477 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:31:10,479 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:31:14,957 - scraper.douglas_product_scraper - INFO - Parsed HTML content from page: https://www.douglas.lv/lv/katalogs/?&page=538, total length: 3
+2024-10-12 22:33:42,510 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:33:42,510 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:33:45,857 - scraper.douglas_product_scraper - INFO - Parsed HTML content from page: https://www.douglas.lv/lv/katalogs/?&page=538, total length: 3
+2024-10-12 22:37:43,474 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:37:43,476 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:37:46,717 - scraper.douglas_product_scraper - INFO - Parsed HTML content from page: https://www.douglas.lv/lv/katalogs/?&page=538, total length: 3
+2024-10-12 22:39:28,829 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:39:28,831 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:42:35,749 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:42:35,750 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:44:25,460 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:44:25,462 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:48:25,472 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:48:25,472 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:49:00,472 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:49:00,472 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:49:49,586 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:49:49,588 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 22:57:58,338 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 22:57:58,339 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:00:06,636 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:00:06,637 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:00:55,173 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:00:55,175 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:04:08,853 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:04:08,855 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:07:27,270 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:07:27,272 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:13:38,382 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:13:38,384 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:17:33,680 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:17:33,680 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:25:17,188 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:25:17,198 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:25:20,908 - scraper.douglas_product_scraper - INFO - Extracted general product details from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:25:22,914 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45457
+2024-10-12 23:25:24,410 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/yves-saint-laurent-black-opium-illicit-green/?item=45457
+2024-10-12 23:25:24,416 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/yves-saint-laurent-black-opium-illicit-green/?item=45457
+2024-10-12 23:25:26,419 - scraper.douglas_product_scraper - INFO - Scraping product ?item=46431
+2024-10-12 23:25:27,458 - scraper.douglas_product_scraper - WARNING - Failed to extract tag name for product: https://www.douglas.lv/lv/katalogs/mac-lustreglass-lipstick-2/?item=46431
+2024-10-12 23:25:27,468 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/mac-lustreglass-lipstick-2/?item=46431
+2024-10-12 23:25:27,478 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/mac-lustreglass-lipstick-2/?item=46431
+2024-10-12 23:25:27,492 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/mac-lustreglass-lipstick-2/?item=46431
+2024-10-12 23:25:30,495 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:25:31,674 - scraper.douglas_product_scraper - WARNING - Failed to extract tag name for product: https://www.douglas.lv/lv/katalogs/mac-amplified-lipstick/
+2024-10-12 23:25:31,684 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/mac-amplified-lipstick/
+2024-10-12 23:25:31,694 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/mac-amplified-lipstick/
+2024-10-12 23:25:31,704 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/mac-amplified-lipstick/
+2024-10-12 23:25:33,706 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:25:34,599 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/rexaline-3d-hydra-force-serum/
+2024-10-12 23:25:34,603 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/rexaline-3d-hydra-force-serum/
+2024-10-12 23:25:34,616 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/rexaline-3d-hydra-force-serum/
+2024-10-12 23:25:35,617 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:25:36,601 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/filorga-time-filler-intensive/
+2024-10-12 23:25:36,611 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/filorga-time-filler-intensive/
+2024-10-12 23:25:37,613 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:25:38,643 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large/
+2024-10-12 23:25:38,653 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large/
+2024-10-12 23:25:38,660 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large/
+2024-10-12 23:25:40,664 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:25:41,670 - scraper.douglas_product_scraper - WARNING - Failed to extract tag name for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large-paddle/
+2024-10-12 23:25:41,676 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large-paddle/
+2024-10-12 23:25:41,689 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large-paddle/
+2024-10-12 23:25:41,699 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large-paddle/
+2024-10-12 23:25:42,701 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:25:43,716 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-mini-cushion-2/
+2024-10-12 23:25:43,727 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-mini-cushion-2/
+2024-10-12 23:25:43,739 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-mini-cushion-2/
+2024-10-12 23:25:45,741 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:25:46,810 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/prada-infusion-d-iris/
+2024-10-12 23:25:46,815 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/prada-infusion-d-iris/
+2024-10-12 23:25:47,820 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45436
+2024-10-12 23:25:49,086 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/prada-luna-rossa-ocean/?item=45436
+2024-10-12 23:25:49,091 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/prada-luna-rossa-ocean/?item=45436
+2024-10-12 23:25:51,095 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45242
+2024-10-12 23:25:52,179 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/prada-luna-rossa-sport/?item=45242
+2024-10-12 23:25:52,184 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/prada-luna-rossa-sport/?item=45242
+2024-10-12 23:25:53,187 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45239
+2024-10-12 23:25:54,449 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-high-performance-matt-lipstick/?item=45239
+2024-10-12 23:25:54,464 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-high-performance-matt-lipstick/?item=45239
+2024-10-12 23:25:57,465 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:25:58,696 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-high-performance-lipstick/
+2024-10-12 23:25:58,696 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-high-performance-lipstick/
+2024-10-12 23:26:00,705 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:26:02,160 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-hydra-care-lipstick/
+2024-10-12 23:26:02,170 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-hydra-care-lipstick/
+2024-10-12 23:26:05,173 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45218
+2024-10-12 23:26:06,284 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-pro-tip-brow-liner/?item=45218
+2024-10-12 23:26:06,290 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-pro-tip-brow-liner/?item=45218
+2024-10-12 23:26:08,294 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:26:09,546 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-gel-twist-brow-liner/
+2024-10-12 23:26:09,556 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-gel-twist-brow-liner/
+2024-10-12 23:26:11,560 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:26:12,617 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-compact-foundation-double-finish-refill/
+2024-10-12 23:26:12,624 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-compact-foundation-double-finish-refill/
+2024-10-12 23:26:14,626 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45208
+2024-10-12 23:26:16,161 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-compact-foundation-double-finish/?item=45208
+2024-10-12 23:26:16,170 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-compact-foundation-double-finish/?item=45208
+2024-10-12 23:26:19,172 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:26:20,165 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-powder-brush-premium-quality-new/
+2024-10-12 23:26:20,174 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-powder-brush-premium-quality-new/
+2024-10-12 23:26:23,178 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:26:24,182 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-brush-cleanser/
+2024-10-12 23:26:24,194 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/artdeco-brush-cleanser/
+2024-10-12 23:47:53,790 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:47:53,801 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:47:57,468 - scraper.douglas_product_scraper - INFO - Extracted general product details from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:47:58,471 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:47:59,714 - scraper.douglas_product_scraper - WARNING - Failed to extract tag name for product: https://www.douglas.lv/lv/katalogs/mac-amplified-lipstick/
+2024-10-12 23:47:59,723 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/mac-amplified-lipstick/
+2024-10-12 23:47:59,736 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/mac-amplified-lipstick/
+2024-10-12 23:47:59,749 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/mac-amplified-lipstick/
+2024-10-12 23:48:00,751 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:01,626 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/rexaline-3d-hydra-force-serum/
+2024-10-12 23:48:01,637 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/rexaline-3d-hydra-force-serum/
+2024-10-12 23:48:02,648 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:03,604 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/filorga-time-filler-intensive/
+2024-10-12 23:48:06,612 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:07,687 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large/
+2024-10-12 23:48:07,697 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large/
+2024-10-12 23:48:08,707 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:09,699 - scraper.douglas_product_scraper - WARNING - Failed to extract tag name for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large-paddle/
+2024-10-12 23:48:09,709 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large-paddle/
+2024-10-12 23:48:09,715 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large-paddle/
+2024-10-12 23:48:09,724 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-large-paddle/
+2024-10-12 23:48:11,727 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:12,724 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-mini-cushion-2/
+2024-10-12 23:48:12,732 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/douglas-collection-douglas-accessories-mini-cushion-2/
+2024-10-12 23:48:15,741 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:16,820 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/prada-infusion-d-iris/
+2024-10-12 23:48:18,831 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45436
+2024-10-12 23:48:20,152 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/prada-luna-rossa-ocean/?item=45436
+2024-10-12 23:48:22,176 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45242
+2024-10-12 23:48:23,241 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/prada-luna-rossa-sport/?item=45242
+2024-10-12 23:48:26,264 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45239
+2024-10-12 23:48:27,456 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-high-performance-matt-lipstick/?item=45239
+2024-10-12 23:48:29,464 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:30,703 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-high-performance-lipstick/
+2024-10-12 23:48:33,713 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:34,892 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-hydra-care-lipstick/
+2024-10-12 23:48:35,908 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45218
+2024-10-12 23:48:37,046 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-pro-tip-brow-liner/?item=45218
+2024-10-12 23:48:38,070 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:39,118 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-gel-twist-brow-liner/
+2024-10-12 23:48:42,129 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:43,485 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-compact-foundation-double-finish-refill/
+2024-10-12 23:48:44,513 - scraper.douglas_product_scraper - INFO - Scraping product ?item=45208
+2024-10-12 23:48:45,666 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-compact-foundation-double-finish/?item=45208
+2024-10-12 23:48:47,677 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:48,669 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-powder-brush-premium-quality-new/
+2024-10-12 23:48:51,680 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:52,678 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/artdeco-brush-cleanser/
+2024-10-12 23:48:54,687 - scraper.douglas_product_scraper - INFO - Scraping product ?item=50461
+2024-10-12 23:48:55,744 - scraper.douglas_product_scraper - WARNING - Failed to extract tag name for product: https://www.douglas.lv/lv/katalogs/mac-powder-kiss-liquid-lipcolour-4/?item=50461
+2024-10-12 23:48:55,754 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/mac-powder-kiss-liquid-lipcolour-4/?item=50461
+2024-10-12 23:48:55,763 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/mac-powder-kiss-liquid-lipcolour-4/?item=50461
+2024-10-12 23:48:55,773 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/mac-powder-kiss-liquid-lipcolour-4/?item=50461
+2024-10-12 23:48:58,792 - scraper.douglas_product_scraper - INFO - Scraping product 
+2024-10-12 23:48:59,844 - scraper.douglas_product_scraper - WARNING - Failed to extract tag name for product: https://www.douglas.lv/lv/katalogs/mac-powder-kiss-lipstick-in-ruby-new/
+2024-10-12 23:48:59,851 - scraper.douglas_product_scraper - WARNING - Failed to extract gender for product: https://www.douglas.lv/lv/katalogs/mac-powder-kiss-lipstick-in-ruby-new/
+2024-10-12 23:48:59,859 - scraper.douglas_product_scraper - WARNING - Failed to extract about for product: https://www.douglas.lv/lv/katalogs/mac-powder-kiss-lipstick-in-ruby-new/
+2024-10-12 23:48:59,871 - scraper.douglas_product_scraper - WARNING - Failed to extract tag list for product: https://www.douglas.lv/lv/katalogs/mac-powder-kiss-lipstick-in-ruby-new/
+2024-10-12 23:55:41,709 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:55:41,709 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:55:45,181 - scraper.douglas_product_scraper - WARNING - Failed to extract brand for product: Time - Filler Intensive
+2024-10-12 23:55:45,181 - scraper.douglas_product_scraper - WARNING - Failed to extract name for product
+2024-10-12 23:58:51,335 - scraper.douglas_product_scraper - INFO - Initializing DouglasProductListScraper with base URL: https://www.douglas.lv/lv/katalogs/
+2024-10-12 23:58:51,337 - scraper.douglas_product_scraper - INFO - Scraping product list from page: https://www.douglas.lv/lv/katalogs/?&page=538
+2024-10-12 23:58:55,105 - scraper.douglas_product_scraper - WARNING - Failed to extract name for product
