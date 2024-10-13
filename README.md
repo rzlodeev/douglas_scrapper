@@ -6,35 +6,51 @@ Project runs in a docker container.
 
 ## Installation
 
+
+### Prerequisites
+
+Make sure you have the following installed on your system:
+
+- Python
+- Git
+
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/rzlodeev/douglas_scrapper.git
 cd douglas_scrapper
 ```
 
-2. Build the docker image:
+
+2. Configure the virtual environment:
+
 ```bash
-docker build -t douglas_scrapper .
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 ```
 
-3. Run the docker container (Make sure that you have Docker installed and running):
+3. Install the required packages:
+
 ```bash
-docker run -it douglas_scrapper
+pip install -r requirements.txt
 ```
 
-## Usage
+4. 
 
-1. Run the scraper:
+Run the scraper:
+
 ```bash
 python main.py
 ```
 
-(optional) You can specify the number of pages to scrape:
+Optionally, you can scrape site catalog partitially, specifying number of first pages to scrap.
+
 ```bash
-python main.py --pages 2
+python main.py -p 2
 ```
 
-2. The results will be saved in the products.xlsx file.
+This will scrap only first 2 pages of the catalog (40 products)
 
+You will see the progress in the cmd output.
 
-
+After finishing files will be saved in the products.xlsx
